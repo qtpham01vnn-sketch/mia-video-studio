@@ -1,0 +1,454 @@
+{
+  "categories": [
+    [
+      "nhe-nhang",
+      "🌿 Nhẹ nhàng"
+    ],
+    [
+      "vui-tuoi",
+      "🎈 Vui tươi"
+    ],
+    [
+      "soi-dong",
+      "⚡ Sôi động"
+    ],
+    [
+      "lang-man",
+      "💖 Lãng mạn"
+    ],
+    [
+      "sau-lang",
+      "🌌 Sâu lắng"
+    ],
+    [
+      "lofi",
+      "☕ Lofi & Thư giãn"
+    ],
+    [
+      "co-trang",
+      "🎋 Cổ trang"
+    ],
+    [
+      "thien",
+      "🧘 Thiền"
+    ],
+    [
+      "cong-nghe",
+      "🚀 Hiện đại"
+    ],
+    [
+      "nang-dong",
+      "🔥 Năng động"
+    ]
+  ],
+  "tracks": [
+    {
+      "id": "nhe-nhang",
+      "name": "🍋 Nhẹ nhàng tươi mát",
+      "cat": "nhe-nhang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/5588f0f9-4252-4e43-911b-8c283eed24a2/nhe-nhang.mp3"
+    },
+    {
+      "id": "mo-mong",
+      "name": "☁️ Mơ mộng",
+      "cat": "nhe-nhang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/76b6ceee-ddad-4288-a979-46bb89d97d21/mo-mong.mp3"
+    },
+    {
+      "id": "tuoi-sang",
+      "name": "🌻 Tươi sáng",
+      "cat": "nhe-nhang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/dde9c091-7caf-4d39-9284-5b87b3998661/tuoi-sang.mp3"
+    },
+    {
+      "id": "binh-minh-thien-nhien",
+      "name": "🌅 Bình minh thiên nhiên",
+      "cat": "nhe-nhang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/81c5976c-191b-44c5-941e-464350ef0c89/binh-minh-thien-nhien.mp3"
+    },
+    {
+      "id": "gio-nhe-qua-la",
+      "name": "🍃 Gió nhẹ qua lá",
+      "cat": "nhe-nhang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/2ea3c2be-6249-4405-98c4-ba0b531a636e/gio-nhe-qua-la.mp3"
+    },
+    {
+      "id": "suong-som-mo-mang",
+      "name": "🌫️ Sương sớm mờ màng",
+      "cat": "nhe-nhang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/5cf96e37-7895-481f-a503-190fa5d90a93/suong-som-mo-mang.mp3"
+    },
+    {
+      "id": "/music/dong-que.mp3",
+      "name": "🌾 Đồng quê",
+      "cat": "nhe-nhang",
+      "url": "https://videomienphi.com/music/dong-que.mp3"
+    },
+    {
+      "id": "/music/vui-tuoi.mp3",
+      "name": "🎉 Vui tươi",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/music/vui-tuoi.mp3"
+    },
+    {
+      "id": "/music/tre-trung.mp3",
+      "name": "🌈 Trẻ trung",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/music/tre-trung.mp3"
+    },
+    {
+      "id": "vui-ve",
+      "name": "🎈 Vui vẻ yêu đời",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/5445f677-4104-447b-bd0c-9e09e7c9a3dd/vui-ve.mp3"
+    },
+    {
+      "id": "rong-ruoi",
+      "name": "🚲 Rong ruổi vui tươi",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/222556f5-3457-482c-9f65-f7b876347df6/rong-ruoi.mp3"
+    },
+    {
+      "id": "vit-con-lach-bach",
+      "name": "🦆 Vịt con lạch bạch",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/07b27452-9fdf-41e4-b714-f0a1b5b1ef3d/vit-con-lach-bach.mp3"
+    },
+    {
+      "id": "khi-con-tinh-nghich",
+      "name": "🐒 Khỉ con tinh nghịch",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/56acf753-8721-45db-9783-7ef333018da9/khi-con-tinh-nghich.mp3"
+    },
+    {
+      "id": "ren-ren-tinh-nghich",
+      "name": "🐾 Rón rén tinh nghịch",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/c8602d5b-2226-4d6e-8ac7-791e802fa6bc/ren-ren-tinh-nghich.mp3"
+    },
+    {
+      "id": "polka-nhun-nhay",
+      "name": "🎪 Polka nhún nhảy",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/074b6e74-246a-4808-be80-bb98fa485610/polka-nhun-nhay.mp3"
+    },
+    {
+      "id": "vong-quay-ky-dieu",
+      "name": "🎠 Vòng quay kỳ diệu",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/74a6e0c4-9c18-437b-b991-20680d3cde49/vong-quay-ky-dieu.mp3"
+    },
+    {
+      "id": "bo-rua-cham-chi",
+      "name": "🐞 Bọ rùa chăm chỉ",
+      "cat": "vui-tuoi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/d5642b62-68d9-4d7f-b36a-7692189d9833/bo-rua-cham-chi.mp3"
+    },
+    {
+      "id": "/music/soi-dong.mp3",
+      "name": "🔥 Sôi động",
+      "cat": "soi-dong",
+      "url": "https://videomienphi.com/music/soi-dong.mp3"
+    },
+    {
+      "id": "nhip-dap-pho-moi",
+      "name": "🎺 Nhịp đập phố mới",
+      "cat": "soi-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/f415c78f-b285-48fb-a95e-ae3b88da5d3a/nhip-dap-pho-moi.mp3"
+    },
+    {
+      "id": "con-loc-nang-luong",
+      "name": "🌪️ Cơn lốc năng lượng",
+      "cat": "soi-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/e240d81c-d882-4938-b620-30973debc0cc/con-loc-nang-luong.mp3"
+    },
+    {
+      "id": "buoc-di-tu-tin",
+      "name": "👠 Bước đi tự tin",
+      "cat": "soi-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/0b3134f3-43db-4a37-873f-8970029b5f65/buoc-di-tu-tin.mp3"
+    },
+    {
+      "id": "funk-bung-ngon",
+      "name": "🎸 Funk búng ngón",
+      "cat": "soi-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/c76d0e8e-79dd-48c8-a5bb-53197b79ed6c/funk-bung-ngon.mp3"
+    },
+    {
+      "id": "meo-ngau-dao-pho",
+      "name": "😎 Mèo ngầu dạo phố",
+      "cat": "soi-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/618a360e-c44a-4390-8581-479438cba1f6/meo-ngau-dao-pho.mp3"
+    },
+    {
+      "id": "disco-lap-lanh",
+      "name": "🪩 Disco lấp lánh",
+      "cat": "soi-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/ba70e66f-1f55-40ad-bdb5-19d5ea50aab7/disco-lap-lanh.mp3"
+    },
+    {
+      "id": "am-ap",
+      "name": "💖 Ấm áp",
+      "cat": "lang-man",
+      "url": "https://videomienphi.com/__l5e/assets-v1/172d9b3c-8055-4def-8e6b-a6879c267425/am-ap.mp3"
+    },
+    {
+      "id": "nang-am",
+      "name": "☀️ Nắng ấm",
+      "cat": "lang-man",
+      "url": "https://videomienphi.com/__l5e/assets-v1/419efc75-71fc-46d9-b345-24fb69dc39c3/nang-am.mp3"
+    },
+    {
+      "id": "buc-thu-mua-thu",
+      "name": "🍂 Bức thư mùa thu",
+      "cat": "lang-man",
+      "url": "https://videomienphi.com/__l5e/assets-v1/2b9996ae-739a-461d-ae86-31a2add4fd05/buc-thu-mua-thu.mp3"
+    },
+    {
+      "id": "giot-nang-hoang-hon",
+      "name": "🌇 Giọt nắng hoàng hôn",
+      "cat": "lang-man",
+      "url": "https://videomienphi.com/__l5e/assets-v1/a50e37c7-58d8-4728-925b-f8b6851205c8/giot-nang-hoang-hon.mp3"
+    },
+    {
+      "id": "dem-venice",
+      "name": "🛶 Đêm Venice",
+      "cat": "lang-man",
+      "url": "https://videomienphi.com/__l5e/assets-v1/80e4ab72-5152-40f6-98c2-d7dc2f8205a5/dem-venice.mp3"
+    },
+    {
+      "id": "mai-la-cua-nhau",
+      "name": "💍 Mãi là của nhau",
+      "cat": "lang-man",
+      "url": "https://videomienphi.com/__l5e/assets-v1/01ea8bce-88eb-4371-8bc6-4361aa1071b9/mai-la-cua-nhau.mp3"
+    },
+    {
+      "id": "cam-hung",
+      "name": "🚀 Truyền cảm hứng",
+      "cat": "sau-lang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/f65fa371-15c7-4770-a5a5-479b6ede4660/cam-hung.mp3"
+    },
+    {
+      "id": "hanh-trinh-co-don",
+      "name": "🌧️ Hành trình cô đơn",
+      "cat": "sau-lang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/f67d40e6-412d-43cb-9b65-7822752b9d0e/hanh-trinh-co-don.mp3"
+    },
+    {
+      "id": "hat-mam-thuc-tinh",
+      "name": "🌱 Hạt mầm thức tỉnh",
+      "cat": "sau-lang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/e9ef6d49-7698-4b93-9feb-f1de04e6a1ad/hat-mam-thuc-tinh.mp3"
+    },
+    {
+      "id": "hy-vong-con-mai",
+      "name": "🕯️ Hy vọng còn mãi",
+      "cat": "sau-lang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/f95fa38f-84b3-4c73-a39a-49ef8daae6f4/hy-vong-con-mai.mp3"
+    },
+    {
+      "id": "thanh-pho-tren-may",
+      "name": "🌌 Thành phố trên mây",
+      "cat": "sau-lang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/faef0d72-16dd-4c39-a8c0-9ecfb6f757de/thanh-pho-tren-may.mp3"
+    },
+    {
+      "id": "/music/thu-gian.mp3",
+      "name": "🌊 Thư giãn",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/music/thu-gian.mp3"
+    },
+    {
+      "id": "chill",
+      "name": "☕ Chill thư thái",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/1401cfce-48b8-41c5-b20b-a5058b5940bc/chill.mp3"
+    },
+    {
+      "id": "chieu-thu-gian",
+      "name": "🌇 Chiều thư giãn",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/56cff0ac-8b28-4df5-8f40-9fac23ca283e/chieu-thu-gian.mp3"
+    },
+    {
+      "id": "goc-pho-ca-phe",
+      "name": "🏙️ Góc phố cà phê",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/f0f89382-e40b-49bb-b713-44b443c15088/goc-pho-ca-phe.mp3"
+    },
+    {
+      "id": "gac-xep-binh-yen",
+      "name": "🏠 Gác xép bình yên",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/db3cf110-55da-412d-abb5-3ed1b3786088/gac-xep-binh-yen.mp3"
+    },
+    {
+      "id": "dem-jazz-loi-gio",
+      "name": "🎷 Đêm jazz lộng gió",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/d637380a-5b0e-4c1c-9041-514eff25e5f6/dem-jazz-loi-gio.mp3"
+    },
+    {
+      "id": "bossa-chieu-ha",
+      "name": "🌴 Bossa chiều hạ",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/f7206571-38a6-473a-8b4d-f6035c83cd81/bossa-chieu-ha.mp3"
+    },
+    {
+      "id": "saxophone-em-ai",
+      "name": "🎶 Saxophone êm ái",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/401d59aa-eadf-4165-a09c-43727f5701d2/saxophone-em-ai.mp3"
+    },
+    {
+      "id": "giai-lao-thong-tha",
+      "name": "🍪 Giải lao thong thả",
+      "cat": "lofi",
+      "url": "https://videomienphi.com/__l5e/assets-v1/8bf1ada0-da0f-4b6d-b9fd-da2587e1de8b/giai-lao-thong-tha.mp3"
+    },
+    {
+      "id": "sao-truoc-suoi",
+      "name": "🪈 Tiếng sáo trước suối",
+      "cat": "co-trang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/8823f616-3c69-4d82-b0b6-376d5c5aff63/sao-truoc-suoi.mp3"
+    },
+    {
+      "id": "lang-xua-mai-tranh",
+      "name": "🛖 Làng xưa mái tranh",
+      "cat": "co-trang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/81a71dc6-3a17-4972-b12e-11d08a30c3cb/lang-xua-mai-tranh.mp3"
+    },
+    {
+      "id": "truyen-thuyet-co-thanh",
+      "name": "🏰 Truyền thuyết cổ thành",
+      "cat": "co-trang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/91ac4bef-6727-4837-a540-44cea85ea1f4/truyen-thuyet-co-thanh.mp3"
+    },
+    {
+      "id": "bach-van-van-du",
+      "name": "☁️ Bạch vân vân du",
+      "cat": "co-trang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/00d01ba6-6f18-463e-9415-4eff521772e8/bach-van-van-du.mp3"
+    },
+    {
+      "id": "trong-hoi-phuong-dong",
+      "name": "🥁 Trống hội phương Đông",
+      "cat": "co-trang",
+      "url": "https://videomienphi.com/__l5e/assets-v1/cb4ffc0b-c108-47a8-a04b-6b865044660d/trong-hoi-phuong-dong.mp3"
+    },
+    {
+      "id": "/music/thien.mp3",
+      "name": "🧘 Thiền",
+      "cat": "thien",
+      "url": "https://videomienphi.com/music/thien.mp3"
+    },
+    {
+      "id": "binh-yen",
+      "name": "🌿 Bình yên",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/b91ca19d-83f1-411f-94a4-73f586926b6e/binh-yen.mp3"
+    },
+    {
+      "id": "thien-suoi-nuoc",
+      "name": "⛲ Thiền suối nước",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/3df63e60-aaf3-45e9-8c13-0e34c2fd8470/thien-suoi-nuoc.mp3"
+    },
+    {
+      "id": "chim-hot-buoi-sang",
+      "name": "🐦 Chim hót buổi sáng",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/8842c45f-0d36-40d3-8f76-d2557d82d61e/chim-hot-buoi-sang.mp3"
+    },
+    {
+      "id": "song-bien-em",
+      "name": "🌊 Sóng biển êm",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/070facea-2df9-4701-872a-94a666758dde/song-bien-em.mp3"
+    },
+    {
+      "id": "giac-mo-rung-xanh",
+      "name": "🌲 Giấc mơ rừng xanh",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/136c174f-8d1a-487e-a797-7568120280bc/giac-mo-rung-xanh.mp3"
+    },
+    {
+      "id": "dong-chay-mat",
+      "name": "💧 Dòng chảy mát",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/36948009-8de7-4d12-97c4-dd2c244c1b23/dong-chay-mat.mp3"
+    },
+    {
+      "id": "chua-lanh-tam-hon",
+      "name": "💚 Chữa lành tâm hồn",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/730fad4b-2e0f-4320-82cc-9f555086601f/chua-lanh-tam-hon.mp3"
+    },
+    {
+      "id": "hoi-tho-tu-tai",
+      "name": "🌬️ Hơi thở tự tại",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/7abfd441-69c7-4760-8f45-26f3a9aced85/hoi-tho-tu-tai.mp3"
+    },
+    {
+      "id": "tinh-lang-sau-tham",
+      "name": "🪷 Tĩnh lặng sâu thẳm",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/d3d10804-80fd-473c-ac36-cb01ef9838eb/tinh-lang-sau-tham.mp3"
+    },
+    {
+      "id": "chuong-ngan-xa",
+      "name": "🔔 Chuông ngân xa",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/92083b95-de43-4d55-ab58-fe77dc40f3d3/chuong-ngan-xa.mp3"
+    },
+    {
+      "id": "tam-hon-trong-treo",
+      "name": "💎 Tâm hồn trong trẻo",
+      "cat": "thien",
+      "url": "https://videomienphi.com/__l5e/assets-v1/2d3185cc-2674-4268-9154-57af0ee92105/tam-hon-trong-treo.mp3"
+    },
+    {
+      "id": "ky-nguyen-ai",
+      "name": "🤖 Kỷ nguyên AI",
+      "cat": "cong-nghe",
+      "url": "https://videomienphi.com/__l5e/assets-v1/a779fe38-a5b4-4642-a6da-0af6cb59bd84/ky-nguyen-ai.mp3"
+    },
+    {
+      "id": "dot-pha-tuong-lai",
+      "name": "💡 Đột phá tương lai",
+      "cat": "cong-nghe",
+      "url": "https://videomienphi.com/__l5e/assets-v1/adffc411-e3a4-4807-9f97-8220fdb74d83/dot-pha-tuong-lai.mp3"
+    },
+    {
+      "id": "nhip-song-toc-do",
+      "name": "⚡ Nhịp sống tốc độ",
+      "cat": "cong-nghe",
+      "url": "https://videomienphi.com/__l5e/assets-v1/6836332e-4cad-4087-8b07-c1ee6214830d/nhip-song-toc-do.mp3"
+    },
+    {
+      "id": "chinh-phuc-dinh-cao",
+      "name": "🏔️ Chinh phục đỉnh cao",
+      "cat": "nang-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/2adb5d56-7ffc-4cce-8196-d7f49450800d/chinh-phuc-dinh-cao.mp3"
+    },
+    {
+      "id": "khat-vong-vuon-len",
+      "name": "🦅 Khát vọng vươn lên",
+      "cat": "nang-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/26da5def-4ec0-4e47-b397-7ac26ff4ada2/khat-vong-vuon-len.mp3"
+    },
+    {
+      "id": "vuot-qua-gioi-han",
+      "name": "🏃 Vượt qua giới hạn",
+      "cat": "nang-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/5fa62c0a-7c31-41a9-bc8e-fec520557404/vuot-qua-gioi-han.mp3"
+    },
+    {
+      "id": "sai-buoc-ban-mai",
+      "name": "🌄 Sải bước ban mai",
+      "cat": "nang-dong",
+      "url": "https://videomienphi.com/__l5e/assets-v1/bf8985f6-a703-4dfa-9efa-3aa46e322367/sai-buoc-ban-mai.mp3"
+    }
+  ]
+}
